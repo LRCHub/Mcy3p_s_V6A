@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "秒速",
+  "base_artist": "ミフメイ",
+  "createdAt": "2026-02-21T03:22:44.097458Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "秒速 (feat. 式部めぐり)",
+      "artist": "ミフメイ",
+      "has_synced": false,
+      "path": "select/pl_01_秒速_(feat._式部めぐり)_ミフメイ.txt"
+    }
+  ]
+}
